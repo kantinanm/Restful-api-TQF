@@ -1,2 +1,1 @@
-exports.user_db = 'test';
-exports.password_db = 'test';
+exports.dbconstring ='mongodb://user:pass@host:port/document';
