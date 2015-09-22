@@ -1,0 +1,2 @@
+exports.user_db = 'test';
+exports.password_db = 'test';

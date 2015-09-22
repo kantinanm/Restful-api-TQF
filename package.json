@@ -1,0 +1,18 @@
+{
+  "name": "Restful-api-TQF",
+  "version": "0.0.0",
+  "description": "MongoDB , build-a-restful-api-using-node-and-express-4 ",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"test\");"
+  },
+  "keywords": [
+    "build-a-restful-api-using-node-and-express-4"
+  ],
+  "author": "Kantinan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "mongodb": "^2.0.43"
+  }
+}
